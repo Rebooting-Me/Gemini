@@ -1,6 +1,6 @@
 # Gemini (*beta*)
 
-Gemini is a JavaScript project based on its namesake LLM that uses Google's Generative AI to generate content based on input context. It uses the `@google/generative-ai` package to interact with the Google Generative AI API.
+Gemini is a JavaScript project based on its namesake LLM that uses Google's Generative AI to generate content based on input context. It uses the `@google/generative-ai` package to interact with the Google Generative AI API. The inspiration for this project came from the dearth of any online content on creating a Gemini RAG in javascript. This projects intends to fill that gap!
 
 ### Setup
 
